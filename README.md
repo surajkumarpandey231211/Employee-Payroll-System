@@ -112,9 +112,9 @@ Through this project, I learned:
 
 Enter Choice : 2
 
-101 Suraj Pandey IT 50000.0
-102 Rahul Kumar HR 40000.0
-103 Amit Singh Finance 55000.0
+* 101 Suraj Pandey IT 50000.0
+* 102 Rahul Kumar HR 40000.0
+* 103 Amit Singh Finance 55000.0
 
 ## Future Enhancements
 
