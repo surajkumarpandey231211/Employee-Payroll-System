@@ -102,6 +102,20 @@ Through this project, I learned:
 * Project Structure and Package Management
 * Debugging and Troubleshooting JDBC Issues
 
+  ===== EMPLOYEE PAYROLL SYSTEM =====
+
+1. Add Employee
+2. View Employees
+3. Delete Employee
+4. Calculate Salary
+5. Exit
+
+Enter Choice : 2
+
+101 Suraj Pandey IT 50000.0
+102 Rahul Kumar HR 40000.0
+103 Amit Singh Finance 55000.0
+
 ## Future Enhancements
 
 * Update Employee Details
